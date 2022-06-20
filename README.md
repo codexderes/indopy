@@ -7,3 +7,14 @@ Class & Fungsi IndoPy yang tersedia saat ini:
 1. Kalkulator Sederhana
 2. Perhitungan Bangun Datar
 
+Jika kamu ingin menggunakan Library IndoPy silahkan install via PyPi
+```python
+> pip install IndoPy==1.0.0
+```
+atau bisa juga install via Terminal / CMD
+```bash
+> git clone https://github.com/codexderes/indopy
+```
+
+## Cara penggunaan Package Module IndoPy
+![Example](example.png)
