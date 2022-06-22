@@ -16,5 +16,10 @@ atau bisa juga install via Terminal / CMD
 > git clone https://github.com/codexderes/indopy
 ```
 
+## Features IndoPy Module
+- [x] Kalkulator Sederhana
+- [x] Perhitungan Bangun Datar
+- [ ] Membuat Form Register & Login dengan PHP dengan IndoPy Module
+
 ## Cara penggunaan Package Module IndoPy
 ![Example](example.png)
